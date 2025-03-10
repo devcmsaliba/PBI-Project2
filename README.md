@@ -1,5 +1,8 @@
 # 🏪 Grupo Varejo Brasil - Power BI
 
+🔗 **Acesse o painel online:**  
+👉 [Clique aqui para visualizar](https://devcmsaliba.github.io/PBI-Project2/)
+
 Este projeto tem como objetivo **analisar e visualizar dados do setor varejista** utilizando **Power BI**. Foram aplicadas técnicas avançadas de modelagem, análise e segurança para garantir insights estratégicos.  
 
 ---
